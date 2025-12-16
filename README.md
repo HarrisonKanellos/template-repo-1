@@ -8,3 +8,5 @@
 - Webpack configuration files using webpack merge: webpack.common.js, webpack.dev.js, webpack.prod.js
 - Default code files part of webpack configuration: index.js. template.html
 - .gitignore: node_modules, dist
+- Eslint with recommended Javascript rules and browser global variables
+- Prettier with default, except tabWidth set to 4
